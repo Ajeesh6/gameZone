@@ -1,0 +1,389 @@
+{
+    "Games":[
+        {
+            "id":"1",
+            "name":"Grand Theft Auto V",
+            "background_image":"https://media.rawg.io/media/games/456/456dea5e1c7e3cd07060c14e96612001.jpg",
+            "background_image_additional":"https://media.rawg.io/media/screenshots/5f5/5f5a38a222252d996b18962806eed707.jpg",
+            "trailer":"https://www.youtube.com/watch?v=QkkoHAzjnUs",
+            "description":"Rockstar Games went bigger, since their previous installment of the series. You get the complicated and realistic world-building from Liberty City of GTA4 in the setting of lively and diverse Los Santos, from an old fan favorite GTA San Andreas. 561 different vehicles (including every transport you can operate) and the amount is rising with every update.Simultaneous storytelling from three unique perspectives: Follow Michael, ex-criminal living his life of leisure away from the past, Franklin, a kid that seeks the better future, and Trevor, the exact past Michael is trying to run away from. GTA Online will provide a lot of additional challenge even for the experienced players, coming fresh from the story mode. Now you will have other players around that can help you just as likely as ruin your mission. Every GTA mechanic up to date can be experienced by players through the unique customizable character, and community content paired with the leveling system tends to keep everyone busy and engaged.",
+            "release_date":"2013-09-17",
+            "rating":"4.4",
+            "downloads":"200M",
+            "screenshot_1":"https://media.rawg.io/media/screenshots/a7c/a7c43871a54bed6573a6a429451564ef.jpg",
+            "screenshot_2":"https://media.rawg.io/media/screenshots/cf4/cf4367daf6a1e33684bf19adb02d16d6.jpg",
+            "screenshot_3":"https://media.rawg.io/media/screenshots/f95/f9518b1d99210c0cae21fc09e95b4e31.jpg",
+            "website":"http://www.rockstargames.com/V/"
+
+        },
+        {
+            "id":"21",
+            "name":"Minecraft",
+            "background_image":"https://i.postimg.cc/Cx4h4kxN/minecraft.jpg",
+            "background_image_additional":"https://i.postimg.cc/Kcd8cmWn/minecraft-B.jpg",
+            "trailer":"https://www.youtube.com/watch?v=MmB9b5njVbA",
+            "description":"Minecraft is a 3-D computer game where players can build anything. The game which has been described as like an 'online Lego' involves building blocks and creating structures across different environments and terrains. Set in a virtual world the game involves resource gathering, crafting items, building, and combat.",
+            "release_date":"2011-11-18",
+            "rating":"4.7",
+            "downloads":"110M",
+            "screenshot_1":"https://i.postimg.cc/SNCNJw0H/minecraft-SS1.jpg",
+            "screenshot_2":"https://i.postimg.cc/MHfNr2bw/minecraft-SS2.jpg",
+            "screenshot_3":"https://i.postimg.cc/Y9sT3qF8/minecraft-SS3.jpg",
+            "website":"https://www.minecraft.net/en-us"
+
+        },
+        {
+            "id":"22",
+            "name":"Valorant",
+            "background_image":"https://i.postimg.cc/tgDKszCK/valorant.jpg",
+            "background_image_additional":"https://i.postimg.cc/4N49D8gc/Valorant-All-Valorant-Agents.webp",
+            "trailer":"https://www.youtube.com/watch?v=e_E9W2vsRbQ",
+            "description":"Valorant is a team-based first-person tactical hero shooter set in the near future. Players play as one of a set of Agents, characters based on several countries and cultures around the world. In the main game mode, players are assigned to either the attacking or defending team with each team having five players on it.",
+            "release_date":"2022-06-02",
+            "rating":"4.2",
+            "downloads":"110M",
+            "screenshot_1":"https://i.postimg.cc/k44kKt2B/Valorant-SS1.jpg",
+            "screenshot_2":"https://i.postimg.cc/Z0kgG7Vd/Valorant-SS2.png",
+            "screenshot_3":"https://i.postimg.cc/Y0JKpqqj/Valorant-SS3.jpg",
+            "website":"https://playvalorant.com/en-gb/"
+
+        },
+        {
+            "id":"23",
+            "name":"Fortnite",
+            "background_image":"https://i.postimg.cc/zfJmDQ5w/fortnite.jpg",
+            "background_image_additional":"https://i.postimg.cc/hjXKgYby/fortnite-B.jpg",
+            "trailer":"https://www.youtube.com/watch?v=WJW-bzXZM8M",
+            "description":"Fortnite is a survival game where 100 players fight against each other in player versus player combat to be the last one standing. It is a fast-paced, action-packed game, not unlike The Hunger Games, where strategic thinking is a must in order to survive.",
+            "release_date":"2017-07-21",
+            "rating":"4.5",
+            "downloads":"110M",
+            "screenshot_1":"https://i.postimg.cc/bJVfB97x/fortnite-SS1.jpg",
+            "screenshot_2":"https://i.postimg.cc/yYZCL9vR/fortnite-SS2.jpg",
+            "screenshot_3":"https://i.postimg.cc/GmnwV255/fortnite-SS3.jpg",
+            "website":"https://store.epicgames.com/en-US/p/fortnite"
+
+        },
+        {
+            "id":"24",
+            "name":"Apex Legends",
+            "background_image":"https://i.postimg.cc/3NyQ5DhP/Apex.jpg",
+            "background_image_additional":"https://i.postimg.cc/9QyVQT92/ApexB.jpg",
+            "trailer":"https://www.youtube.com/watch?v=UMJb_mkqynU",
+            "description":"Apex Legends is an online multiplayer battle royale game featuring squads of three players using pre-made characters with distinctive abilities, called Legends, similar to those of hero shooters. Alternate modes have been introduced allowing for single and for two-player squads since the game's release.",
+            "release_date":"2019-02-04",
+            "rating":"4.3",
+            "downloads":"110M",
+            "screenshot_1":"https://i.postimg.cc/MZ480tbx/ApexSS1.jpg",
+            "screenshot_2":"https://i.postimg.cc/6Q0XdXz1/ApexSS2.jpg",
+            "screenshot_3":"https://i.postimg.cc/bJwjgBBY/ApexSS3.jpg",
+            "website":"https://www.ea.com/games/apex-legends"
+
+        },
+        {
+            "id":"2",
+            "name":"The Witcher 3: Wild Hunt",
+            "background_image":"https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg",
+            "background_image_additional":"https://media.rawg.io/media/screenshots/3e4/3e4576a772b3df47bfc52b86e4cf7e03.jpg",
+            "trailer":"https://www.youtube.com/watch?v=nYwe_WHARdc",
+            "description":"The third game in a series, it holds nothing back from the player. Open world adventures of the renowned monster slayer Geralt of Rivia are now even on a larger scale. Following the source material more accurately, this time Geralt is trying to find the child of the prophecy, Ciri while making a quick coin from various contracts on the side. Great attention to the world building above all creates an immersive story, where your decisions will shape the world around you.CD Project Red are infamous for the amount of work they put into their games, and it shows, because aside from classic third-person action RPG base game they provided 2 massive DLCs with unique questlines and 16 smaller DLCs, containing extra quests and items.Players praise the game for its atmosphere and a wide open world that finds the balance between fantasy elements and realistic and believable mechanics, and the game deserved numerous awards for every aspect of the game, from music to direction.",
+            "release_date":"2015-05-18",
+            "rating":"4.6",
+            "downloads":"34M",
+            "screenshot_1":"https://media.rawg.io/media/screenshots/1ac/1ac19f31974314855ad7be266adeb500.jpg",
+            "screenshot_2":"https://media.rawg.io/media/screenshots/6a0/6a08afca95261a2fe221ea9e01d28762.jpg",
+            "screenshot_3":"https://media.rawg.io/media/screenshots/cdd/cdd31b6b4a687425a87b5ce231ac89d7.jpg",
+            "website":"https://thewitcher.com/en/witcher3"
+
+        },
+        {
+            "id":"3",
+            "name":"Portal 2",
+            "background_image":"https://media.rawg.io/media/games/328/3283617cb7d75d67257fc58339188742.jpg",
+            "background_image_additional":"https://media.rawg.io/media/screenshots/9a9/9a995e75aba0f9ce01a341f506fc4e13.jpg",
+            "trailer":"https://www.youtube.com/watch?v=A88YiZdXugA",
+            "description":"Portal 2 is a first-person puzzle game developed by Valve Corporation and released on April 19, 2011 on Steam, PS3 and Xbox 360. It was published by Valve Corporation in digital form and by Electronic Arts in physical form.Its plot directly follows the first game's, taking place in the Half-Life universe. You play as Chell, a test subject in a research facility formerly ran by the company Aperture Science, but taken over by an evil AI that turned upon its creators, GladOS. After defeating GladOS at the end of the first game but failing to escape the facility, Chell is woken up from a stasis chamber by an AI personality core, Wheatley, as the unkempt complex is falling apart. As the two attempt to navigate through the ruins and escape, they stumble upon GladOS, and accidentally re-activate her...Portal 2's core mechanics are very similar to the first game's ; the player must make their way through several test chambers which involve puzzles. For this purpose, they possess a Portal Gun, a weapon capable of creating teleportation portals on white surfaces. This seemingly simple mechanic and its subtleties coupled with the many different puzzle elements that can appear in puzzles allows the game to be easy to start playing, yet still feature profound gameplay. The sequel adds several new puzzle elements, such as gel that can render surfaces bouncy or allow you to accelerate when running on them.The game is often praised for its gameplay, its memorable dialogue and writing and its aesthetic. Both games in the series are responsible for inspiring most puzzle games succeeding them, particularly first-person puzzle games. The series, its characters and even its items such as the portal gun and the companion cube have become a cultural icon within gaming communities.Portal 2 also features a co-op mode where two players take on the roles of robots being led through tests by GladOS, as well as an in-depth level editor.",
+            "release_date":"2011-04-18",
+            "rating":"4.6",
+            "downloads":"7M",
+            "screenshot_1":"https://media.rawg.io/media/screenshots/221/221a03c11e5ff9f765d62f60d4b4cbf5.jpg",
+            "screenshot_2":"https://media.rawg.io/media/screenshots/173/1737ff43c14f40294011a209b1012875.jpg",
+            "screenshot_3":"https://media.rawg.io/media/screenshots/b11/b11a2ae0664f0e8a1ef2346f99df26e1.jpg",
+            "website":"http://www.thinkwithportals.com/"
+
+        },
+        {
+            "id":"4",
+            "name":"Tomb Raider (2013)",
+            "background_image":"https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg",
+            "background_image_additional":"https://media.rawg.io/media/screenshots/755/75595129616c2bb23a8595eb37fe25bd.jpg",
+            "trailer":"https://www.youtube.com/watch?v=M4SG6DfVvLs",
+            "description":"A cinematic revival of the series in its action third person form, Tomb Rider follows Lara in her least experience period of life – her youth. Heavily influenced by Naughty Dog’s “Uncharted”, the game is a mix of everything, from stealth and survival to combat and QTE action scenes.Young Lara Croft arrives on the Yamatai, lost island near Japan, as the leader of the expedition in search of the Yamatai Kingdom, with a diverse team of specialists. But shipwreck postponed the successful arrival and seemingly forgotten island is heavily populated with hostile inhabitants, cultists of Solarii Brotherhood.The game will be graphic at times, especially after failed QTE’s during some of the survival scenes, but overall players will enjoy classic action adventure, reminiscent of the beginning of the series. This game is not a direct sequel or continuation of existing sub-series within the franchise, but a reboot, setting up Tomb Raider to represent modern gaming experience.The game has RPG elements and has a world, which you can explore during the story campaign and after the completion. As well as multiplayer mode, where 2 teams (4 scavengers and 4 survivors) are clashing in 3 game modes while using weapons and environments from the single-player campaign.",
+            "release_date":"2013-03-05",
+            "rating":"4.1",
+            "downloads":"15M",
+            "screenshot_1":"https://media.rawg.io/media/screenshots/4f9/4f9d5efdecfb63cb99f1baa4c0ceb3bf.jpg",
+            "screenshot_2":"https://media.rawg.io/media/screenshots/80f/80f373082b2a74da3f9c3fe2b877dcd0.jpg",
+            "screenshot_3":"https://media.rawg.io/media/screenshots/a87/a8733e877f8fbe45e4a727c22a06aa2e.jpg",
+            "website":"http://www.tombraider.com"
+
+        },
+        {
+            "id":"5",
+            "name":"Counter-Strike: Global Offensive",
+            "background_image":"https://media.rawg.io/media/games/736/73619bd336c894d6941d926bfd563946.jpg",
+            "background_image_additional":"https://media.rawg.io/media/screenshots/f40/f40253f0068ce2f1be2b3dc630c2cf0f.jpg",
+            "trailer":"https://www.youtube.com/watch?v=edYCtaNueQY",
+            "description":"Counter-Strike is a multiplayer phenomenon in its simplicity. No complicated narratives to explain the source of the conflict, no futuristic and alien threats, but counter-terrorists against terrorists. Arena shooter at its core, CS:GO provides you with various methods of disposing enemies and reliant on cooperation within the team. During the round of the classical clash mode, you will gradually receive currency to purchase different equipment. Each player can carry a primary weapon, secondary pistol, knife and a set of grenades, which all can change the battle if wielded by the skilled player. Objectives are clear and vary from map to map, from game mode to game mode. Stop the terrorists from planting explosives, stop the counter-terrorist from retrieving the hostages, kill everyone who isn’t you and just perform the best with.CS:GO is one of the major cybersport discipline, which makes playing it more exciting to some players. Aside from purchasing the game, CS:GO is infamous for its loot case system, that requires players to purchase keys, in order to open said cases. Customization items consist of weapon skins, weapon stickers, and sprays that do not affect gameplay and have purely visual value to the player.",
+            "release_date":"2012-08-21",
+            "rating":"3.5",
+            "downloads":"56M",
+            "screenshot_1":"https://media.rawg.io/media/screenshots/ff1/ff16661bb15f7969b44f6c4118870e44.jpg",
+            "screenshot_2":"https://media.rawg.io/media/screenshots/41b/41bb769d247412eac3336dec934aed72.jpg",
+            "screenshot_3":"https://media.rawg.io/media/screenshots/754/754545acdbf71f56e8902a07c7d20696.jpg",
+            "website":"http://blog.counter-strike.net/"
+
+        },
+        {
+            "id":"6",
+            "name":"Portal",
+            "background_image":"https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg",
+            "background_image_additional":"https://media.rawg.io/media/screenshots/19d/19d3effb85e8f40d0b5b004fb5ab5c76.jpg",
+            "trailer":"https://www.youtube.com/watch?v=TluRVBhmf8w",
+            "description":"Every single time you click your mouse while holding a gun, you expect bullets to fly and enemies to fall. But here you will try out the FPS game filled with environmental puzzles and engaging story. Silent template for your adventures, Chell, wakes up in a testing facility. She’s a subject of experiments on instant travel device, supervised by snarky and hostile GLaDOS.Players will have to complete the tests, room by room, expecting either reward, freedom or more tests. By using the gun, that shoots portals (Portal-Gun™), players will move blocks, travel great distance quickly and learn about your current situation, which is unraveled through environmental storytelling. What you will be told might be different from what you will see.White environments will guide the player’s portal placement, forcing them to pay attention to the surroundings.  Portal creates tension, allowing either solving puzzles at your own leisure or moving quickly, due to the time limit or threats.",
+            "release_date":"2007-10-09",
+            "rating":"3.2",
+            "downloads":"3M",
+            "screenshot_1":"https://media.rawg.io/media/screenshots/99e/99e94bd55eb75fa6e75c3dcbb1a570b2.jpg",
+            "screenshot_2":"https://media.rawg.io/media/screenshots/2f0/2f0297a46934d9fa914c626902b1ce20.jpg",
+            "screenshot_3":"https://media.rawg.io/media/screenshots/3b3/3b3713fbca6194dfc4d6e8a8d006d354.jpg",
+            "website":"http://www.whatistheorangebox.com/"
+
+        },
+        {
+            "id":"7",
+            "name":"Left 4 Dead 2",
+            "background_image":"https://media.rawg.io/media/games/d58/d588947d4286e7b5e0e12e1bea7d9844.jpg",
+            "background_image_additional":"https://media.rawg.io/media/screenshots/f01/f0147a2c654b7ace79a7fcebe94bf110.jpg",
+            "trailer":"https://www.youtube.com/watch?v=N1shYxPdGB8",
+            "description":"Cooperative survival continues with a different set of characters. New survivors are making their way through 5 campaigns with an added ability to play through the story of the first game as well, using not only expanded arsenal of 20 ranged and 10 melee weapons but improved AI Director. Your surroundings and weather will change; enemy and item placement will differ from map to map, from difficulty to difficulty. New unique special zombies, placed in the unlucky for the player spot, can end your run.High compatibility with community mods will allow you not only to add user-created maps but player models, enemy models, and even in-game music, which will help any player to create the unique experience on top of solid game mechanics.Competitive multiplayer mods from arena survival to a head-on competition with another team of survivors are addictive and, in addition to the campaign, will provide you with hundreds of hours of game content.",
+            "release_date":"2009-11-17",
+            "rating":"3.9",
+            "downloads":"32M",
+            "screenshot_1":"https://media.rawg.io/media/screenshots/4c0/4c043fd1a5ff78900483f2e82580fea0.jpg",
+            "screenshot_2":"https://media.rawg.io/media/screenshots/c90/c9071628c238fbc20b366e2413dd8b4a.jpg",
+            "screenshot_3":"https://media.rawg.io/media/screenshots/e29/e293b0f98092b8c0dbe24d66846088bb.jpg",
+            "website":"http://www.l4d.com"
+
+        },
+        {
+            "id":"8",
+            "name":"The Elder Scrolls V: Skyrim",
+            "background_image":"https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg",
+            "background_image_additional":"https://media.rawg.io/media/screenshots/8f4/8f49192e182666832bb331492ca4b1cb.jpg",
+            "trailer":"https://www.youtube.com/watch?v=JSRtYpNRoN0",
+            "description":"The fifth game in the series, Skyrim takes us on a journey through the coldest region of Cyrodiil. Once again player can traverse the open world RPG armed with various medieval weapons and magic, to become a hero of Nordic legends –Dovahkiin, the Dragonborn. After mandatory character creation players will have to escape not only imprisonment but a fire-breathing dragon. Something Skyrim hasn’t seen in centuries.After Oblivion, the magic system was reworked, in order to show players more aggressive and direct combat. As a Dragonborn, your character will be able to use the powerful magic of dragon shouts, powered, upgraded and researched with the souls of the dragons that will be randomly encountered by players, while traveling. Hundreds of sidequests will invite players to discover every part of the newly introduced land. Aside from already filled with guilds, Daedra and steampunk Dwemer ruins, Skyrim has additional DLC content that not only brings Solstheim island and vampire conclave but gives players the ability to build their own homes, instead of buying pre-made ones.",
+            "release_date":"2011-11-11",
+            "rating":"4.2",
+            "downloads":"3M",
+            "screenshot_1":"https://media.rawg.io/media/screenshots/3bd/3bd2710bd1ffb6664fdea7b83afd067e.jpg",
+            "screenshot_2":"https://media.rawg.io/media/screenshots/d4e/d4e9b13f54748584ccbd6f998094dade.jpg",
+            "screenshot_3":"https://media.rawg.io/media/screenshots/599/59946a630e9c7871003763d63184404a.jpg",
+            "website":"http://elderscrolls.com/"
+
+        },
+        {
+            "id":"9",
+            "name":"BioShock Infinite",
+            "background_image":"https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg",
+            "background_image_additional":"https://media.rawg.io/media/screenshots/11d/11da7bd20166b2ae6e8957b7ff82de42.jpg",
+            "trailer":"https://www.youtube.com/watch?v=EsJ55BzIvkE",
+            "description":"The third game in the series, Bioshock takes the story of the underwater confinement within the lost city of Rapture and takes it in the sky-city of Columbia. Players will follow Booker DeWitt, a private eye with a military past; as he will attempt to wipe his debts with the only skill he’s good at – finding people. Aside from obvious story and style differences, this time Bioshock protagonist has a personality, character, and voice, no longer the protagonist is a silent man, trying to survive.Open and bright level design of Columbia shows industrial colonial America in a seemingly endless carnival. But Bioshock is not famous for its visuals, but for its story.  Mystery and creative vision of Irrational Games invite players to uncover the secrets of Columbia’s leader - Zachary Comstock and save Elizabeth, the girl, that’s been locked up in the flying city since her birth.Unique weapons and mechanics of Vigor will make encounters different, helping players to adjust to the new found mobility and hook shot, making fights fast-paced and imaginative.",
+            "release_date":"2013-03-26",
+            "rating":"4.3",
+            "downloads":"6M",
+            "screenshot_1":"https://media.rawg.io/media/screenshots/bf0/bf07e2c6d2c888d372917d9ef453c8a4.jpg",
+            "screenshot_2":"https://media.rawg.io/media/screenshots/9d3/9d38833952812ad7888a6dc21699934f.jpg",
+            "screenshot_3":"https://media.rawg.io/media/screenshots/595/59572d257b6797986e4eabcd1ee023fd.jpg",
+            "website":"https://2k.com/en-US/game/bioshock-infinite"
+
+        },
+        {
+            "id":"10",
+            "name":"Red Dead Redemption 2",
+            "background_image":"https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg",
+            "background_image_additional":"https://media.rawg.io/media/screenshots/f3d/f3d6c0eaf1db2bdbb44ad84f15e43f4f.jpg",
+            "trailer":"https://www.youtube.com/watch?v=gmA6MrX81z4",
+            "description":"America, 1899. The end of the wild west era has begun as lawmen hunt down the last remaining outlaw gangs. Those who will not surrender or succumb are killed. After a robbery goes badly wrong in the western town of Blackwater, Arthur Morgan and the Van der Linde gang are forced to flee. With federal agents and the best bounty hunters in the nation massing on their heels, the gang must rob, steal and fight their way across the rugged heartland of America in order to survive. As deepening internal divisions threaten to tear the gang apart, Arthur must make a choice between his own ideals and loyalty to the gang who raised him. From the creators of Grand Theft Auto V and Red Dead Redemption, Red Dead Redemption 2 is an epic tale of life in America at the dawn of the modern age.",
+            "release_date":"2018-10-26",
+            "rating":"4.5",
+            "downloads":"45M",
+            "screenshot_1":"https://media.rawg.io/media/screenshots/7b8/7b8895a23e8ca0dbd9e1ba24696579d9.jpg",
+            "screenshot_2":"https://media.rawg.io/media/screenshots/b8c/b8cee381079d58b981594ede46a3d6ca.jpg",
+            "screenshot_3":"https://media.rawg.io/media/screenshots/fd6/fd6e41d4c30c098158568aef32dfed35.jpg",
+            "website":"https://www.rockstargames.com/reddeadredemption2/"
+
+        },
+        {
+            "id":"11",
+            "name":"Life is Strange",
+            "background_image":"https://media.rawg.io/media/games/562/562553814dd54e001a541e4ee83a591c.jpg",
+            "background_image_additional":"https://media.rawg.io/media/screenshots/8e9/8e910792acf05dd5721f461744b04090.jpg",
+            "trailer":"https://www.youtube.com/watch?v=AURVxvIZrmU",
+            "description":"Interactive storytelling and plot-heavy games gained popularity, and “Life is Strange” arrived as teen mystery adventure. The plot will go through the life of Maxine, a teenager in possession of curious power, allowing her to stop and rewind time, in order to manipulate her surroundings. Max, after the reunion with her friend Chloe, is on the path to uncovering the secrets of Arcadia Bay. Players will have to deal with puzzle solving through the fetch quests, in order to change the world around them. The game puts players in situations, where they’re forced to make a moral choice, going through the decision which may have short-term or long-term consequences. Every choice made by the player will trigger the butterfly effect, surrounding the first playthrough of the game with a lot of emotional struggle, thoughtfully crafted by the developers at Dontnod Entertainment. Life is Strange is third person adventure game, where players might seem just as an observer of the stories, unfolding in front of them.",
+            "release_date":"2015-01-29",
+            "rating":"4.1",
+            "downloads":"23M",
+            "screenshot_1":"https://media.rawg.io/media/screenshots/edf/edfcbdf85f02f871263dabf1b4f0aa87.jpg",
+            "screenshot_2":"https://media.rawg.io/media/screenshots/4c6/4c6da2f36396d4ed51f82ba6159fa39b.jpg",
+            "screenshot_3":"https://media.rawg.io/media/screenshots/6aa/6aa56ef1485c8b287a913fa842883daa.jpg",
+            "website":"https://www.lifeisstrange.com/en-us/games/life-is-strange"
+
+        },
+        {
+            "id":"12",
+            "name":"Borderlands 2",
+            "background_image":"https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg",
+            "background_image_additional":"https://media.rawg.io/media/screenshots/765/765ed8cfa674ecfdf6593f4b8539db4a.jpg",
+            "trailer":"https://www.youtube.com/watch?v=kKVf5feSMEg",
+            "description":"Sequel to the 4-player cooperative FPS RPG Borderlands, where the new team of Vault Hunters arrives on the infamous planet Pandora in order to get the riches, hidden inside the Vault, and help to free the planet from the Handsome Jack, President of Hyperion. Clear out the endless waves and groups and marauders with various weapon types and character abilities.Unlike the first game, Borderlands 2 provided DLC not only expanding the world of Pandora with stand-alone story campaigns but adding 2 more characters. Now the main cast consists of Gunzerker Salvador(dual-wields guns at command), Siren Maya (holds and paralyzes the enemy), Commando Axton (summons turrets) and Zer0 the Assasin (invisible sniper ninja). But with the DLC players can try out summoning giant flying robots with Gaige the Mechromancer and Krieg the Psycho. Most of the game charm and popularity of Borderlands 2 comes from the supporting cast and the personalities of the NPC, making this fast-paced shooter with optional cover stand out.",
+            "release_date":"2012-09-18",
+            "rating":"4.1",
+            "downloads":"12M",
+            "screenshot_1":"https://media.rawg.io/media/screenshots/adb/adbbb37113618ee107459cd5c344f2a8.jpg",
+            "screenshot_2":"https://media.rawg.io/media/screenshots/616/61643dd96e936d29eb68cf53b2334e53.jpg",
+            "screenshot_3":"https://media.rawg.io/media/screenshots/864/8644946ba14a03ab69f0766c42a03f80.jpg",
+            "website":"http://www.borderlands2.com/"
+
+        },
+        {
+            "id":"13",
+            "name":"Half-Life 2",
+            "background_image":"https://media.rawg.io/media/games/b8c/b8c243eaa0fbac8115e0cdccac3f91dc.jpg",
+            "background_image_additional":"https://media.rawg.io/media/screenshots/b2d/b2d0754d02af8e2733f05a8a769b55c7.jpg",
+            "trailer":"https://www.youtube.com/watch?v=UKA7JkV51Jw",
+            "description":"Gordon Freeman became the most popular nameless and voiceless protagonist in gaming history. He is painted as the most famous scientist and a hero within the world of Half-Life, and for a good reason. In the first game he saved the planet from alien invasion, this time, when the invasion is already begun, the world needs his help one more time. And you, as a player, will help this world to survive. This time Gordon arrives in City 17, ravaged and occupied by Combines, where he meets his old Black Mesa friends. What is different, aside from the overall design quality, is the use of Valve’s Source engine that not only expands on the fluidity of character model animations and movement but allows players to interact with a myriad of objects with the advanced and realistic (to an extent) physics. Classic Headcrab Zombies are revamped and have new variants that provide players with different threats. For a story-driven FPS, Half-Life 2 is unique in its plot delivery, and making in-game mechanics feel natural, be it platforming or driving.",
+            "release_date":"2004-11-16",
+            "rating":"3.6",
+            "downloads":"34M",
+            "screenshot_1":"https://media.rawg.io/media/screenshots/8af/8af6188357426890cbc8c8a34d9e7b75.jpg",
+            "screenshot_2":"https://media.rawg.io/media/screenshots/3b5/3b542c954ba5bd2f32da067c8122cd80.jpg",
+            "screenshot_3":"https://media.rawg.io/media/screenshots/3d6/3d6066e45d259d2e83bf6767e6113d94.jpg",
+            "website":"http://www.half-life2.com"
+
+        },
+        {
+            "id":"14",
+            "name":"BioShock",
+            "background_image":"https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg",
+            "background_image_additional":"https://media.rawg.io/media/screenshots/24e/24e735679130042b1a8ad1a06aefa2da.jpg",
+            "trailer":"https://www.youtube.com/watch?v=rrqfPG4ZcAA",
+            "description":"FPS with RPG elements, Bioshock invites players to experience horrors of underwater isolation in the city of Rapture, the failed project of the better future. After surviving the plane crash, the protagonist has only one way to go – to the giant lighthouse that opens a way to the underwater utopia. Players will have to unravel the complicated history of Rapture, relying only on themselves, their guns and Plasmids, a mystical substance, that allows it’s user to obtain near magical abilities.The atmosphere of isolation and threat is conveyed through the environmental sounds, subtle electrical buzzing and audio logs, telling the story of societal decay and despair. Players will shape the story, making moral choices along their way, saving Little Sisters or extracting ADAM, the mystical fuel for your abilities. While exploring the underwater city, players will complete missions for the last sane inhabitants of Rapture, while fending off the less fortunate ones.",
+            "release_date":"2007-08-21",
+            "rating":"3.3",
+            "downloads":"21M",
+            "screenshot_1":"https://media.rawg.io/media/screenshots/01f/01f62d7064838a5c3202acfc61503487.jpg",
+            "screenshot_2":"https://media.rawg.io/media/screenshots/7f5/7f517e07e36e4af5a7c0b86a7d42853f.jpg",
+            "screenshot_3":"https://media.rawg.io/media/screenshots/aca/aca089b963a42ec4cbf56b5e5334af8e.jpg",
+            "website":"https://2k.com/en-US/game/bioshock/"
+
+        },
+        {
+            "id":"15",
+            "name":"Limbo",
+            "background_image":"https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg",
+            "background_image_additional":"https://media.rawg.io/media/screenshots/a66/a6664b4d8e6fd2c1dd8c833e725f545c.jpg",
+            "trailer":"https://www.youtube.com/watch?v=Y4HSyVXKYz8",
+            "description":"This popular 2D puzzle-platformer creates the atmosphere of isolation, where the player alone can guide the nameless protagonist to his destination. Hostile environments and one-hit deaths may seem difficult, but the game implements a fair amount of checkpoints. The monochrome color palette showcases cartoony proportions of every living thing while making lack of details threatening. Limbo shows you exactly what you encounter, but never how it looks.Limbo uses the atmosphere and sound design of the horror genre while avoiding tropes of the modern horror games. The overarching theme and unique style compensated for the rather short game with an abrupt ending, making Limbo one of the most impactful games for the genre.The simple controls and easy-to-pick-up mechanics help to make a clear distinction, which part of the stage players can interact with, and which part can lead to the quick death. Even though the game is in black and white, this separation is intuitive and natural, so the player would know exactly where to go or what to do.",
+            "release_date":"2010-07-21",
+            "rating":"3.1",
+            "downloads":"10M",
+            "screenshot_1":"https://media.rawg.io/media/screenshots/512/512f4bc2092016478ddcb9e7e60aeec0.jpg",
+            "screenshot_2":"https://media.rawg.io/media/screenshots/63d/63d30699e8fcab9c808e6714d9d3fd59.jpg",
+            "screenshot_3":"https://media.rawg.io/media/screenshots/de0/de04bbc0fd9904071ef25bf23113c8c4.jpg",
+            "website":"http://playdead.com/limbo"
+
+        },
+        {
+            "id":"16",
+            "name":"God of War (2018)",
+            "background_image":"https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg",
+            "background_image_additional":"https://media.rawg.io/media/screenshots/e2e/e2e16b63691fab32fa20d99f3e6895a0.jpeg",
+            "trailer":"https://www.youtube.com/watch?v=K0u_kAWLJOA",
+            "description":"God of War is a third person action-adventure video game developed by Santa Monica Studio and published by Sony Interactive Entertainment. God of War won Game of the Year 2018. This subreddit is dedicated to discussion of the games and sharing news about them. Or posting anything related to GOW really.",
+            "release_date":"2018-04-20",
+            "rating":"4.6",
+            "downloads":"90M",
+            "screenshot_1":"https://media.rawg.io/media/screenshots/d68/d6868e5f7bce66e326bd48b11ba24b13.jpeg",
+            "screenshot_2":"https://media.rawg.io/media/screenshots/928/928cdaf4ae204f202d177bbd65e911b3.jpeg",
+            "screenshot_3":"https://media.rawg.io/media/screenshots/a54/a549a06ebe89c570cabb57308c4c42a5.jpeg",
+            "website":"https://godofwar.playstation.com/"
+
+        },
+        {
+            "id":"17",
+            "name":"Destiny 2",
+            "background_image":"https://media.rawg.io/media/games/34b/34b1f1850a1c06fd971bc6ab3ac0ce0e.jpg",
+            "background_image_additional":"https://media.rawg.io/media/screenshots/9dd/9dd2669387f9a1519dfda2a0b7030e45.jpg",
+            "trailer":"https://www.youtube.com/watch?v=ZJLAJVmggt0",
+            "description":"Destiny 2 is an online multiplayer first-person shooter. You take on the role of a Guardian that needs to protect the last city on Earth from alien invaders. The game follows its predecessor, Destiny. The goal of the game is to return the Light that was stolen from the Guardians by the aliens.Destiny 2 features two main activity types: player versus environment and player versus player. PvE is focused on exploration, story missions interaction with NPCs and side quests. PvP features 4v4 team matches in different modes. The game also allows taking part in group missions, such as three-player strikes and six-player raids.Destiny 2 has a strong RPG aspect that includes character customization and development. There are three classes in the game - Warlock, Hunter, and Titan; they provide different playstyles depending on their specialization and unique abilities. To develop the character you can gain experience points completing the story and side missions.",
+            "release_date":"2017-09-06",
+            "rating":"3.6",
+            "downloads":"22M",
+            "screenshot_1":"https://media.rawg.io/media/screenshots/818/818cc34134cb22fb18fda8edec7144a3.jpg",
+            "screenshot_2":"https://media.rawg.io/media/screenshots/003/003a559bc0b47a4e5f2928f18a8d9142.jpg",
+            "screenshot_3":"https://media.rawg.io/media/screenshots/75d/75d8fbb3254f5b06f1a3f9a026d9c122.jpg",
+            "website":"https://www.bungie.net/7/en/Destiny/NewLight"
+
+        },
+        {
+            "id":"18",
+            "name":"DOOM (2016)",
+            "background_image":"https://media.rawg.io/media/games/c4b/c4b0cab189e73432de3a250d8cf1c84e.jpg",
+            "background_image_additional":"https://media.rawg.io/media/screenshots/d3b/d3b881ae214f9ad14724afc41b49dcea.jpg",
+            "trailer":"https://www.youtube.com/watch?v=RO90omga8D4",
+            "description":"Return of the classic FPS, Doom (2016) acts as a reboot of the series and brings back the Doomslayer, protagonist of the original Doom games. In order to solve the energy crisis, humanity learned to harvest the energy from Hell, and when something went wrong and a demon invasion has started, it’s up to the player to control the Doomslayer and destroy the evil.Doom is a fast-paced game that restores the concept of instant health packs and leaves the player against armies of Hell with no cover, no health regeneration, or help from anyone. After damaging monsters enough, they will start glowing, which will allow players to perform glory kills to restore some health. While exploring the levels, players will come across secrets, collectible items, or upgrade points for the weapons and armor. The single-player campaign silent protagonist has a noticeable personality. He gets visibly annoyed and angry in his actions during expository cutscenes and forces his way through the game. Multiplayer maps gather players in Deathmatch/”king-of-the-hill” type game modes, with all the weapons from the single-player campaign.",
+            "release_date":"2016-05-13",
+            "rating":"4.3",
+            "downloads":"11M",
+            "screenshot_1":"https://media.rawg.io/media/screenshots/353/353c1e834e7da7d6ceaa6beaff529c29.jpg",
+            "screenshot_2":"https://media.rawg.io/media/screenshots/e50/e50f822107b8cc6af57aa21d76524149.jpg",
+            "screenshot_3":"https://media.rawg.io/media/screenshots/ae9/ae9e9f7bfe19c63bd16151f81f81a7ed.jpg",
+            "website":"https://bethesda.net/game/doom"
+
+        },
+        {
+            "id":"19",
+            "name":"Fallout 4",
+            "background_image":"https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
+            "background_image_additional":"https://media.rawg.io/media/screenshots/fdf/fdf7213f4eccd1d7257491b893068310.jpg",
+            "trailer":"https://www.youtube.com/watch?v=X5aJfebzkrM",
+            "description":"The fourth game in the post-apocalyptic action RPG series from Bethesda studious brings players back to the retro-future. After customizing the facial features of the character, players will be admitted to the Vault 111 with their family, and tricked into entering the cryogenic capsule. After the rude awakening after the unknown amount of time has passed, the child is separated from the parents and the loving partner is killed in front of them – the main quest is settled. Now there’s only the giant open world to explore. Fallout 4 introduces the mechanics of settlement building, where players can build their own little town. Gathering material for crafting and building brings more “survival” elements into the old formula. Within their own settlements, players will be able to build all needed utilities, from storage spaces to power armor stations. Visual upgrade from the previous game brings life to what used to be brown wastelands, now filled with details and color.",
+            "release_date":"2015-11-09",
+            "rating":"3.4",
+            "downloads":"34M",
+            "screenshot_1":"https://media.rawg.io/media/screenshots/f55/f5598897e0e418c67521f2213dceb459.jpg",
+            "screenshot_2":"https://media.rawg.io/media/screenshots/37c/37ce90b25d84e531743917165115d24c.jpg",
+            "screenshot_3":"https://media.rawg.io/media/screenshots/fd3/fd3a97519e6d1b73f429f6bfcfb3bcf5.jpg",
+            "website":"http://www.fallout4.com"
+
+        },
+        {
+            "id":"20",
+            "name":"Team Fortress 2",
+            "background_image":"https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg",
+            "background_image_additional":"https://media.rawg.io/media/screenshots/22d/22d0ef79c8ff037f83c633f904f79198.jpg",
+            "trailer":"https://www.youtube.com/watch?v=N7ZafWA2jd8",
+            "description":"TF2 is an objective based arena shooter with unique characters, representing different classes, acting as a staple of casual and competitive gaming for Steam. Dozens of different maps and game modes are trying to keep this game alive, after all the years it was available. Each character has a vast arsenal that can be accessed through completing in-game achievements, randomly receiving them from loot-boxes within the game, crafting them or just buying and trading items on the Steam Market. For players, that's not into the direct clash with players from the enemy team, Team Fortress 2 introduced a PvE mode, which is wave defense from the mirrored robotic opponents that have qualities of some of the playable classes. Every update and introduction, made over years, provided a lot of entertainment In the form of comic books an short animated videos, creating and explaining a story behind endless clashes for resources, briefcases or pure domination.",
+            "release_date":"2007-10-10",
+            "rating":"2.8",
+            "downloads":"12M",
+            "screenshot_1":"https://media.rawg.io/media/screenshots/596/5968ba06bac8bee0ec7e9d03c970c421.jpg",
+            "screenshot_2":"https://media.rawg.io/media/screenshots/94f/94f4eb0b3d1fde7a37ec84f0f66f7f87.jpg",
+            "screenshot_3":"https://media.rawg.io/media/screenshots/a0a/a0ad82cad18d0a2466d1d5f12bf8858c.jpg",
+            "website":"http://www.teamfortress.com/"
+
+        }
+        
+    ]
+}

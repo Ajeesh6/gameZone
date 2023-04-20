@@ -1,0 +1,87 @@
+<nav class="navbar ">
+    <div class="container-fluid">
+      <a class="navbar-brand" href=""><img src="https://i.postimg.cc/W11S2WsL/istockphoto-584597532-170667a.jpg"
+          style="height: 39px; width: 41px;border-radius: 21px;"> GameZone</a>
+      
+    </div>
+  </nav>
+
+
+<div class="container p-4 mt-4 mb-4" style="background-color: #27292a;border-radius: 30px;" *ngIf="gamedetails">
+
+
+    <div class="text-center text-light ">
+        <h1>{{gamedetails.name}}</h1>
+    </div>
+    <div class="row container-fluid">
+        <div class="col-lg-6 p-4">
+            <img src="{{gamedetails.background_image}}" alt="" style="width: 100%;overflow: hidden;height: 100%;">
+        </div>
+        <div class="col-lg-6 p-4" style="position: relative;">
+                <img src="{{gamedetails.background_image_additional}}" alt=""style="width: 100%;overflow: hidden;height: 100%;">
+                <a href="{{gamedetails.trailer}}" target="_blank" style="position: absolute;    left: 50%;
+                top: 50%;
+                transform: translate(-23px, -23px);
+                width: 46px;
+                height: 46px;
+                background-color: #ffffff;
+                border-radius: 50%;
+                display: inline-block;
+                text-align: center;
+                line-height: 46px;
+                color: #ffdd00;"><i class="fa fa-play"></i></a>
+        </div>
+
+    </div>
+
+    <div class="text-center text-light p-4">
+        <h2>DETAILS</h2>
+    </div>
+
+
+    
+
+
+    <div class="p-4" style="background-color: #1F2122;border-radius: 30px;">
+
+        <div class="row" >
+
+            <div class="col-lg-12">
+                <p class="px-4 text-light">{{gamedetails.description}}</p>
+            </div>
+            <div class="col-lg-12" style="padding: 20px;">
+                <div class="text-light row"
+                    style="background-color: #27292a;text-align: center;border-radius: 20px;">
+                    <div class="p-1 col-lg-4">Release date <i class="fa-solid fa-calendar-days"></i> : {{gamedetails.release_date}}</div>
+                    <div class="p-1 col-lg-4">Rating <i class="fa-solid fa-star"></i> : {{gamedetails.rating}}/5</div>
+                    <div class="p-1 col-lg-4">downloads <i class="fa-solid fa-download"></i> : {{gamedetails.downloads}}</div>
+                </div>
+            </div>
+
+
+
+            <div class="col-lg-4  "   >
+                <img  src="{{gamedetails.screenshot_1}}" alt=""
+                    style="border-radius: 23px; margin-bottom: 30px;width: 100%;height:210px;">
+            </div>
+            <div class="col-lg-4 " >
+                <img src="{{gamedetails.screenshot_2}}" alt=""
+                    style="border-radius: 23px; margin-bottom: 30px;width: 100%;height:210px;">
+            </div>
+            <div class="col-lg-4 " >
+                <img src="{{gamedetails.screenshot_3}}" alt=""
+                    style="border-radius: 23px; margin-bottom: 30px;width: 100%;height:210px;">
+            </div>
+
+            
+            <div class="col-lg-12 container">
+                <div class="text-center " >
+                    <a href="{{gamedetails.website}}" class="a1">Visite website</a>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>

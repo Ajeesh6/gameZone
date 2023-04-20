@@ -1,0 +1,96 @@
+img {
+    height: 170px;
+}
+
+.l1 {
+    height: 165px;
+    width: 186px;
+    padding: 15px;
+
+
+}
+
+.r1 {
+    transition: 0.2s ease-in-out;
+    background-color: #18191a;
+    border: 3px solid #dacc33;
+    color: #ffea01;
+}
+
+.r1:hover {
+    transform: scale(1.03);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.badge{
+    background-color: black;
+    color:#ffea01 ;
+}
+
+
+nav{
+    
+    background-color: rgba(35, 35, 35, 0.174);
+    backdrop-filter: saturate(180%) blur(10px);
+    
+}
+
+.navbar-brand{
+    color: #ffea01;
+    font-size: x-large;
+}
+.navbar-brand:hover{
+    color: #ffea01;
+}
+
+
+.btn{
+    background-color: #ffea01;
+    color: #000000;
+}
+.btn:hover{
+    background-color: #000000;
+    color: #ffea01;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.main-banner {
+    background-image: url(https://i.postimg.cc/GmXcwxkg/depositphotos-272268460-stock-photo-gamepads-on-violet-table-background.webp);
+    background-position: center center;
+    background-size: cover;
+    min-height: 300px;
+    border-radius: 23px;
+    padding: 30px;
+
+}
+
+
+
+
+.main-banner h6 {
+    font-size: 20px;
+    color: #fff;
+    font-weight: 400;
+    margin-bottom: 25px;
+}
+
+.main-banner h4 {
+    font-size: 45px;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+}

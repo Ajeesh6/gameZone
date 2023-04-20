@@ -1,0 +1,32 @@
+img{
+    border-radius: 30px;
+}
+.a1{
+    text-decoration: none;
+    background-color: #27292a;
+    color: rgb(255, 255, 255);
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 85px;
+    padding-right: 85px;
+    border-radius: 20px;
+}
+.a1:hover{
+    background-color: #ffffff;
+    color: #27292a;
+}
+
+nav{
+    
+    background-color: rgba(35, 35, 35, 0.174);
+    backdrop-filter: saturate(180%) blur(10px);
+    
+}
+
+.navbar-brand{
+    color: #ffea01;
+    font-size: x-large;
+}
+.navbar-brand:hover{
+    color: #ffea01;
+}

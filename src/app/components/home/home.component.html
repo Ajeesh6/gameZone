@@ -1,0 +1,100 @@
+<!-- <section class="py-5 ">
+  <div class="container px-4 px-lg-5 mt-2 " style="background-color: #2C3333;border-radius: 30px;">
+
+
+    
+      <div class="row r1 main-banner mb-3 mt-2">
+        <div class="col-lg-7">
+          <div class="header-text">
+            <h6>Welcome To GameZone</h6>
+            <h4><em>Browse</em> Our Popular Games Here</h4>
+            
+          </div>
+        </div>
+      </div>
+    
+
+
+
+    <h3 class="mb-3 " style="color: #0E8388;margin-top: 55px;"> Popular Games</h3>
+    <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center"style="background-color: #2C3333;border-radius: 30px;">
+
+
+      <div class="col mb-5 mt-5" *ngFor="let p of popular">
+        <div class="card h-100" style="border-radius: 30px; background-color: #000000;">
+          <div class="badge  position-absolute"style="top: 1rem; right: 1rem;background-color: #000000;color:yellow;">
+            <i class="fa fa-star" ></i>{{p.rating}}
+          </div>
+          <a [routerLink]="['/details',p.id]">
+            <img class="card-img-top" src="{{p.background_image}}" alt="..."
+              style="border-top-right-radius:30px ;border-top-left-radius:30px " />
+
+          </a>
+          <div class="card-body p-4">
+            <div class="text-center text-light">
+
+              <h5 class="fw-bolder">{{p.name}}</h5>
+
+            </div>
+          </div>
+
+
+        </div>
+      </div>
+
+
+
+    </div>
+    <br>
+    <br>
+  </div>
+</section> -->
+
+<nav class="navbar ">
+  <div class="container-fluid">
+    <a class="navbar-brand" href=""><img src="https://i.postimg.cc/W11S2WsL/istockphoto-584597532-170667a.jpg"
+        style="height: 39px; width: 41px;border-radius: 21px;"> GameZone</a>
+    <form class="d-flex" role="search">
+      <input [(ngModel)]="searchTerm" (keyup)="search($event)" class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+      <button class="btn" type="submit">Search</button>
+    </form>
+  </div>
+</nav>
+
+
+
+<section class="py-5">
+
+ <!-- <div class="mb-4 p-4" >
+    <div class="row  main-banner ">
+      <div class="col-lg-7">
+        <div class="header-text">
+          <h6>Welcome To GameZone</h6>
+          <h4><em>Browse</em> Our Popular Games Here</h4>
+          
+        </div>
+      </div>
+    </div>
+ </div> -->
+
+ <div class="text-center" style="color: #ffea01;"><h2>Popular Games</h2></div>
+
+  <div class="container px-4 px-lg-5 mt-5">
+      <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+          <div *ngFor="let p of popular | filter:searchTerm:'name'" class="col mb-5 ">
+              <div class="card h-100 r1">
+                  <div class="badge   position-absolute" style="top: 0.5rem; right: 0.5rem"><i class="fa fa-star" ></i>{{p.rating}}</div>
+                  <img class="card-img-top" src="{{p.background_image}}" alt="..." style="height: 170px;" [routerLink]="['/details',p.id]" />
+                  <div class="card-body p-3">
+                      <div class="text-center">
+                          <h5 class="fw-bolder">{{p.name}}</h5>
+                          
+                      </div>
+                  </div>
+                 
+              </div>
+          </div>
+
+      </div>
+  </div>
+</section>
